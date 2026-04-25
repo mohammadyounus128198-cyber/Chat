@@ -1,0 +1,6 @@
+{
+  "name": "WeChat Simulator",
+  "description": "A WeChat simulator UI that auto-replies to messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
